@@ -1,4 +1,2 @@
-# test-repository
-This is a test description
-
-Another example.
+# My first repo
+This is a description.
